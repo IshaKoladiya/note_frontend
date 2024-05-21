@@ -1,0 +1,11 @@
+.header{
+    background-color: lightgrey;
+}
+.and{
+    background-color: green;
+    color: white;
+}
+.and:hover{
+    background-color:red !important;
+    color: white !important;
+}
